@@ -2,6 +2,6 @@ fastapi==0.115.5
 uvicorn==0.32.1
 pydantic==2.10.1
 requests==2.32.3
-databases
-sqlalchemy
-aiohttp
+databases==0.9.0
+aiohttp==3.11.7
+SQLAlchemy==2.0.36
