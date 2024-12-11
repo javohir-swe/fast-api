@@ -1,5 +1,5 @@
 from importlib.metadata import requires
-from typing import Optional, Union
+from typing import Optional
 import uvicorn
 from fastapi import FastAPI
 from pydantic import BaseModel
